@@ -1,16 +1,16 @@
-👋 Hi, I’m Kalaay, 
+# 👋 Hi, I’m Kalaay, 
 
 i do hobby coding projects sometimes, mainly related to Warframe and specifically Profit-Taker speedrunning so far.
 
-### things i made:
+## things i made:
 
-#### Website for the Profit-Taker Community Guide (Vitepress)
+### Website for the Profit-Taker Community Guide (Vitepress)
 
 Website: https://profit-taker.com
 
 Github repo: https://github.com/KalaayPT/Profit-Taker-Guide
 
-#### Rust parser backend (and other contributions) for the Profit Taker Analytics app
+### Rust parser backend (and other contributions) for the Profit Taker Analytics app
 
 App Website: https://basi.is-a.dev/pta
 
