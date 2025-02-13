@@ -16,7 +16,7 @@ App Website: https://basi.is-a.dev/pta
 
 Github repo: https://github.com/Basiiii/Profit-Taker-Analytics
 
-If you like any of what i do and want to give me some thanks, you can [Buy me a coffee](https://buymeacoffee.com/kalaay)
+If you like any of what i do and want to give me some thanks, you can [Buy me a coffee](https://ko-fi.com/kalaay)
 
 <!---
 KalaayPT/KalaayPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
